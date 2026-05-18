@@ -8,7 +8,7 @@
 .game {
 	width:500px;
 	height:200px;
-	background-image: url("..waterfall.gif");
+	background-image: url("waterfall.gif");
 	bacground-size: auto;
 	border:10px solid black;
 	margin: auto;
@@ -16,7 +16,7 @@
 #character {
 	width:50px;
 	height:50px;
-	background-image: url("..dino.gif");
+	background-image: url("dino.gif");
 	background-size: cover;
 	position: relative;
 	top:150px;
@@ -24,7 +24,7 @@
 #block {
 	width:20px;
 	height:20px;
-	background-image: url("..boulder.webp");
+	background-image: url("boulder.webp");
 	background-size: 100% 100%;
 	background-position: center;
 	position: relative;
